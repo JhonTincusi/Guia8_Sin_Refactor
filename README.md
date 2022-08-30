@@ -1,3 +1,3 @@
-# Examen-Parcial---Desarrollo-de-software
-Primer examen parcial de Desarrollo de software 1
+# GUIA 8 REFACTORING
+Codigo sin refactoring
 
